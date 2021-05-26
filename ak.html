@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Database Test Sample</title>
+  </head>
+  <body>
+
+    <form method="get">
+      <input type="text" name="person", value="value">
+      <button type="submit">PRESS-ME</button>
+    </form>
+    <?php
+    $name = $_GET['person'];
+    echo $name." is a good person";
+
+    $datetoday = date("y");
+    echo $datetoday;
+     ?>
+
+  </body>
+</html>

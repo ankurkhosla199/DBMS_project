@@ -1,0 +1,67 @@
+faculty_id,first_name,last_name,email,department,DOB,gender,position,pending_leaves,status
+rpr001,Deepti,Bathula,bathula@iitrpr.ac.in,CSE,01-01-1975,Female,3,10,1
+rpr002,Shrishendu,Das,shirshendu@iitrpr.ac.in,CSE,02-01-1975,Male,3,10,1
+rpr003,Abhinav,Dhall,abhinav@iitrpr.ac.in,CSE,03-01-1975,Male,3,10,1
+rpr004,Neeraj ,Goel,neeraj@iitrpr.ac.in,CSE,04-01-1975,Male,3,10,1
+rpr005,Puneet ,Goel,puneet@iitrpr.ac.in,CSE,05-01-1975,Male,3,10,1
+rpr006,Viswanath,Gunturi,gunturi@iitrpr.ac.in,CSE,06-01-1975,Male,3,10,1
+rpr007,Sudarshan ,Iyenger,sudarshan@iitrpr.ac.in,CSE,07-01-1975,Male,3,10,1
+rpr008,Shweta ,Jain,shwetajain@iitrpr.ac.in,CSE,08-01-1975,Female,3,10,1
+rpr009,Shashi,Jha,shashi@iitrpr.ac.in,CSE,09-01-1975,Male,3,10,1
+rpr010,T.V.,Kalyan,kalyantv@iitrpr.ac.in,CSE,10-01-1975,Male,3,10,1
+rpr011,Narayanan,Krishnan,ckn@iitrpr.ac.in,CSE,11-01-1975,Male,3,10,1
+rpr012,Sudeepta ,Mishra,sudeepta@iitrpr.ac.in,CSE,12-01-1975,Male,3,10,1
+rpr013,Apurva,Mudgal,apurva@iitrpr.ac.in,CSE,13-01-1975,Male,3,10,1
+rpr014,Sujata,Pal,sujata@iitrpr.ac.in,CSE,14-01-1975,Female,3,10,1
+rpr015,Mukesh,Saini,mukesh@iitrpr.ac.in,CSE,15-01-1975,Male,3,10,1
+rpr016,Anil,Shukla,anilshukla@iitrpr.ac.in,CSE,16-01-1975,Male,3,10,1
+rpr017,Balwinder,Sodhi,sodhi@iitrpr.ac.in,CSE,17-01-1975,Male,3,10,1
+rpr018,Ram ,Subramaniam,s.ramanathan@iitrpr.ac.in,CSE,18-01-1975,Male,3,10,1
+rpr019,Nitin ,Auluck,nitin@iitrpr.ac.in,CSE,19-01-1975,Male,2,10,1
+rpr020,Ravi,Teja,avraviteja@iitrpr.ac.in,EE,20-01-1975,Male,3,10,1
+rpr021,BP,Padhy,bibhu@iitrpr.ac.in,EE,21-01-1975,Male,3,10,1
+rpr022,CC,Reddy,reddy@iitrpr.ac.in,EE,22-01-1975,Male,1,10,1
+rpr023,Kalaiselvi,J.,kalaiselvi@iitrpr.ac.in,EE,23-01-1975,Female,3,10,1
+rpr024,Ramachandra,Shekhar,sekhar@iitrpr.ac.in,EE,24-01-1975,Male,3,10,1
+rpr025,Ranjana,Sodhi,ranajna@iitrpr.ac.in,EE,25-01-1975,Male,3,10,1
+rpr026,Saifullah,Payami,saif.payami@iitrpr.ac.in,EE,26-01-1975,Male,3,10,1
+rpr027,Sanjay,Roy,roys@iitrpr.ac.in,EE,27-01-1975,Male,3,10,1
+rpr028,Ashwani,Sharma,ashwani.sharma@iitrpr.ac.in,EE,28-01-1975,Male,3,10,1
+rpr029,Brijesh,Kumabni,brijesh@iitrpr.ac.in,EE,29-01-1975,Male,3,10,1
+rpr030,J.S.,Sahambi,jsahambi@iitrpr.ac.in,EE,30-01-1975,Male,3,10,1
+rpr031,Ravibabu,Mulaveesala,ravi@iitrpr.ac.in,EE,31-01-1975,Male,2,10,1
+rpr032,Sam,Darshi,sam@iitrpr.ac.in,EE,01-02-1975,Male,3,10,1
+rpr033,Satyam,Aggarwal,satyam @ iitrpr.ac.in,EE,02-02-1975,Male,3,10,1
+rpr034,Subramaniam,Murala,subbumurala@ iitrpr.ac.in,EE,03-02-1975,Male,3,10,1
+rpr035,Suman,Kumar,suman@iitrpr.ac.in,EE,04-02-1975,Male,3,10,1
+rpr036,Abhishek,Sharma,abhishek@iitrpr.ac.in,EE,05-02-1975,Male,3,10,1
+rpr037,Brajesh,Rawat,r.brajesh@iitrpr.ac.in,EE,06-02-1975,Male,3,10,1
+rpr038,Devarshi,Das,devarshi.das@iitrpr.ac.in,EE,07-02-1975,Male,3,10,1
+rpr039,Mahendra,Sakare,mahendra@iitrpr.ac.in,EE,08-02-1975,Male,3,10,1
+rpr040,Pradeep,Duhan,pduhan@iitrpr.ac.in,EE,09-02-1975,Male,3,10,1
+rpr041,Rohit,Sharma,rohit@iitrpr.ac.in,EE,10-02-1975,Male,3,10,1
+rpr042,Vinayak,Hande,vinayak.hande@iitrpr.ac.in,EE,11-02-1975,Male,3,10,1
+rpr043,A.Dhar,Jayal,jayal@iitrpr.ac.in,ME,12-02-1975,Male,3,10,1
+rpr044,Anumpam,Agrawal,anupam@iitrpr.ac.in,ME,13-02-1975,Male,3,10,1
+rpr045,C.K,Nirala,nirala@iitrpr.ac.in,ME,14-02-1975,Male,3,10,1
+rpr046,C.Shekhar,Sharma,chander.sharma@iitrpr.ac.in,ME,15-02-1975,Male,3,10,1
+rpr047,Devranjan,Samanta,devranjan.samanta@iitrpr.ac.in,ME,16-02-1975,Male,3,10,1
+rpr048,Dhiraj.K,Mahajan,dhiraj.mahajan@iitrpr.ac.in,ME,17-02-1975,Male,3,10,1
+rpr049,Ekta,Singla,ekta@iitrpr.ac.in,ME,18-02-1975,Female,2,10,1
+rpr050,Harpreet,Singh,harpreetsingh@iitrpr.ac.in,ME,19-02-1975,Male,3,10,1
+rpr051,Himanshu,Tyagi,himanshu.tyagi@iitrpr.ac.in,ME,20-02-1975,Male,3,10,1
+rpr052,Jitendra,Prasad,jprasad@iitrpr.ac.in,ME,21-02-1975,Male,3,10,1
+rpr053,Lipika,Kabiraj,lipika.kabiraj@iitrpr.ac.in,ME,22-02-1975,Female,3,10,1
+rpr054,Navin,Kumar,nkumar@iitrpr.ac.in,ME,23-02-1975,Male,3,10,1
+rpr055,Prabir,Sarkar,prabir@iitrpr.ac.in,ME,24-02-1975,Male,3,10,1
+rpr056,Prabhat.K,Agnihotri,prabhat@iitrpr.ac.in,ME,25-02-1975,Male,3,10,1
+rpr057,Rakesh.K,Maurya,rakesh.maurya@iitrpr.ac.in,ME,26-02-1975,Male,3,10,1
+rpr058,Ramjee,Repaka,ramjee.repaka@iitrpr.ac.in,ME,27-02-1975,Male,3,10,1
+rpr059,Ranjan,Das,ranjandas@iitrpr.ac.in,ME,28-02-1975,Male,3,10,1
+rpr060,Ravi,Kant,ravi.kant@iitrpr.ac.in,ME,01-03-1975,Male,3,10,1
+rpr061,Sachin,Kumar,sachin@iitrpr.ac.in,ME,02-03-1975,Male,3,10,1
+rpr062,S.C.,Roy,scroy@iitrpr.ac.in,ME,03-03-1975,Male,3,10,1
+rpr063,Sarit.K,Das,skdas@iitrpr.ac.in,ME,04-03-1975,Male,0,10,1
+rpr064,Satwinder.J,Singh,sjsingh@iitrpr.ac.in,ME,05-03-1975,Male,3,10,1
+rpr065,Srikant.S.,Padhee,sspadhee@iitrpr.ac.in,ME,06-03-1975,Male,3,10,1
+rpr066,Manish,Agrawal,manish.agrawal@iitrpr.ac.in,ME,07-03-1975,Male,3,10,1
